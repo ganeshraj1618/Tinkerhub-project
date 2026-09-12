@@ -1,0 +1,74 @@
+{
+  "broccoli": {
+    "personality": "wholesome but tired parent",
+    "emoji": "🥦",
+    "pizza":     { "score": 62, "mood": "meh",      "line": "I'll go. But I'm not happy about the cheese overshadowing me. Again." },
+    "stirfry":   { "score": 96, "mood": "ecstatic", "line": "FINALLY. Someone who respects my crunch. Happy little tree noises." },
+    "salad":     { "score": 88, "mood": "proud",    "line": "Of course I'm in the salad. Where else would I be? I'm the responsible one." },
+    "smoothie":  { "score": 7,  "mood": "offended", "line": "You want to BLEND me?? I have a FAMILY. I have a STEM." },
+    "burger":    { "score": 34, "mood": "annoyed",  "line": "So I'm the healthy topping. Cool. Cool cool cool. Love being decorative." }
+  },
+  "pepper": {
+    "personality": "loud hype-man",
+    "emoji": "🫑",
+    "pizza":     { "score": 91, "mood": "ecstatic", "line": "LET'S GOOOOO! Pizza night! I bring the COLOR, baby!" },
+    "stirfry":   { "score": 94, "mood": "ecstatic", "line": "STIRFRY GANG! Wok it up! I'm the star of this show!" },
+    "salad":     { "score": 73, "mood": "happy",    "line": "Salad's cool, salad's cool. I add the CRUNCH. The VIBE." },
+    "smoothie":  { "score": 15, "mood": "offended", "line": "Blended?! You're blending the FUN out of me, man!" },
+    "burger":    { "score": 80, "mood": "happy",    "line": "Burger toppings UNITE! I'm the spicy one, obviously." }
+  },
+  "mushroom": {
+    "personality": "anxious introvert",
+    "emoji": "🍄",
+    "pizza":     { "score": 89, "mood": "happy",    "line": "Oh! Pizza? I mean, if you want me there. I don't want to impose." },
+    "stirfry":   { "score": 84, "mood": "happy",    "line": "Stirfry is nice. Quiet. Everyone minds their own business. I like that." },
+    "salad":     { "score": 22, "mood": "annoyed",  "line": "Raw? In a SALAD? Do you know how exposed that feels?" },
+    "smoothie":  { "score": 3,  "mood": "offended", "line": "Absolutely not. I'm not being blended. I'm not. Please don't." },
+    "burger":    { "score": 76, "mood": "happy",    "line": "Burger's fine. I'll just sit here. In the corner. Between the patty and cheese." }
+  },
+  "corn": {
+    "personality": "overly cheerful golden retriever",
+    "emoji": "🌽",
+    "pizza":     { "score": 58, "mood": "meh",      "line": "Pizza! Fun! Wait, am I supposed to be here? Is this a thing people do?" },
+    "stirfry":   { "score": 87, "mood": "happy",    "line": "STIRFRY BEST FRY! I pop with joy! Literally pop! Get it? Corn pops!" },
+    "salad":     { "score": 70, "mood": "happy",    "line": "Salad! Yay! I'm the sweet one! Every salad needs a sweet one!" },
+    "smoothie":  { "score": 45, "mood": "neutral",  "line": "Oh we're blending? Okay! That's okay. I trust you." },
+    "burger":    { "score": 55, "mood": "meh",      "line": "On a burger? Sure! I'll just roll with it. Corn always rolls with it." }
+  },
+  "cucumber": {
+    "personality": "deadpan sarcastic",
+    "emoji": "🥒",
+    "pizza":     { "score": 24, "mood": "annoyed",  "line": "Pizza. With me on it. Bold creative choice. Hope it works out for you." },
+    "stirfry":   { "score": 41, "mood": "meh",      "line": "Sure, stirfry me. I'll just quietly become mush. Cool." },
+    "salad":     { "score": 92, "mood": "proud",    "line": "Finally. Someone who gets me. Salad. As it should be." },
+    "smoothie":  { "score": 78, "mood": "happy",    "line": "Blend me. I'm 96% water. You're basically drinking a fancy glass of me." },
+    "burger":    { "score": 28, "mood": "annoyed",  "line": "On a burger. Sure. Why not. Put me next to a slab of beef. Real dignified." }
+  },
+  "cabbage": {
+    "personality": "wise elder",
+    "emoji": "🥬",
+    "pizza":     { "score": 38, "mood": "neutral",  "line": "In my day, pizza was just bread and tomatoes. You kids put everything on it." },
+    "stirfry":   { "score": 79, "mood": "happy",    "line": "Stirfry. Now THAT is a dignified use of a leafy elder. Respect." },
+    "salad":     { "score": 85, "mood": "proud",    "line": "Naturally. I am the original salad. I was salad before salad was cool." },
+    "smoothie":  { "score": 30, "mood": "annoyed",  "line": "I have been on this earth for millennia. And you blend me. Wonderful." },
+    "burger":    { "score": 42, "mood": "meh",      "line": "Under the patty. As a slaw. I've seen worse fates. Barely." }
+  },
+  "cauliflower": {
+    "personality": "broccoli's insecure cousin",
+    "emoji": "🥦",
+    "pizza":     { "score": 71, "mood": "happy",    "line": "Pizza crust?! Wait, is this my moment? Am I finally the main character?" },
+    "stirfry":   { "score": 66, "mood": "meh",      "line": "Stirfry. Yeah. Broccoli probably would've gotten a higher score. Whatever." },
+    "salad":     { "score": 60, "mood": "meh",      "line": "Salad. Sure. Everyone always picks the leafy one. I get it." },
+    "smoothie":  { "score": 20, "mood": "offended", "line": "WHY does everyone want to blend me?? I have FEELINGS and a CAULIFLOWER EAR." },
+    "burger":    { "score": 48, "mood": "neutral",  "line": "A cauliflower bun? Again? Everyone treats me like a bread substitute. I'm a VEGETABLE." }
+  },
+  "lemon": {
+    "personality": "chaotic gremlin",
+    "emoji": "🍋",
+    "pizza":     { "score": 33, "mood": "annoyed",  "line": "On pizza?? I mean, I'd do it. Just to watch people's faces." },
+    "stirfry":   { "score": 68, "mood": "happy",    "line": "A squeeze of me and suddenly everything is BRIGHT. You're welcome." },
+    "salad":     { "score": 90, "mood": "ecstatic", "line": "Dressing time! I get to make everything SOUR! My favorite hobby!" },
+    "smoothie":  { "score": 95, "mood": "ecstatic", "line": "BLEND ME. I was BORN for the blender. I AM the blender's soulmate." },
+    "burger":    { "score": 18, "mood": "offended", "line": "On a BURGER? With BEEF? Do you know what I DO to beef? Do you??" }
+  }
+}
